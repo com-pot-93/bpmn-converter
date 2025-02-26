@@ -1,0 +1,17 @@
+-i https://pypi.org/simple
+bottle==0.13.2
+certifi==2025.1.31; python_version >= '3.6'
+charset-normalizer==3.4.1; python_version >= '3.7'
+gevent==24.11.1; python_version >= '3.9'
+greenlet==3.1.1; platform_python_implementation == 'CPython'
+gunicorn==23.0.0; python_version >= '3.7'
+idna==3.10; python_version >= '3.6'
+packaging==24.2; python_version >= '3.8'
+pyaml==25.1.0; python_version >= '3.8'
+python-dotenv==1.0.1; python_version >= '3.8'
+pyyaml==6.0.2; python_version >= '3.8'
+requests==2.32.3; python_version >= '3.8'
+setuptools==75.8.1; python_version >= '3.9'
+urllib3==2.3.0; python_version >= '3.9'
+zope.event==5.0; python_version >= '3.7'
+zope.interface==7.2; python_version >= '3.8'
