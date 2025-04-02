@@ -10,6 +10,7 @@ requests = "*"
 pyaml = "*"
 gevent = "*"
 gunicorn = "*"
+sentence-transformers = "*"
 
 [dev-packages]
 
